@@ -56,3 +56,8 @@ rosout.*
 
 # Colcon
 .colcon_build_lock
+
+# Add this to your .gitignore
+.vscode/
+*.db
+*.vc.db
