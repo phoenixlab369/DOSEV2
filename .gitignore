@@ -1,0 +1,58 @@
+# ROS2 Build artifacts
+build/
+install/
+log/
+*.egg-info/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+dist/
+*.dist-info/
+.eggs/
+*.so
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# IDE
+.vscode/settings.json
+.vscode/launch.json
+.idea/
+*.swp
+*.swo
+
+# AI/ML Models (your .depthai_cached_models folder)
+.depthai_cached_models/
+*.blob
+*.onnx
+*.pt
+*.pth
+*.weights
+
+# ROS bags
+*.bag
+*.db3
+*.mcap
+
+# Compiled messages / generated code
+devel/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+rosout.*
+
+# Colcon
+.colcon_build_lock
