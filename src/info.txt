@@ -1,0 +1,13 @@
+✅ CUDA     : 12.6
+✅ cuDNN    : 9.3.0
+✅ TensorRT : 10.3.0 (cuda 12.5)
+
+L4T     : R36.4.7
+JetPack : 6.2
+OS      : Ubuntu 22.04
+Arch    : aarch64
+python3 : 3.10.12
+nsightFace : 0.7.3
+OpenCV      : 4.13.0
+Numpy       : 1.26.4
+All good!
